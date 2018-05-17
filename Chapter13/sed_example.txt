@@ -1,0 +1,10 @@
+List of Fruits
+Mango
+Apple
+apple
+Apple
+Watermelon
+Banana
+Guava
+Pineapple
+Strawberry

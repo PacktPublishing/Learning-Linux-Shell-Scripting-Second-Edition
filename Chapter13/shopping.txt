@@ -1,0 +1,6 @@
+Product   Quantity   Unit_Price   Total_Cost
+Apple 	     2		3	      6
+Orange 	     2          .8            1.6
+Papaya       2          1.5           3
+Chicken      3          5             15
+Cashew       1          10            10

@@ -1,0 +1,7 @@
+Product   Quantity   Unit_Price
+Apple      200		3
+Orange	   200		.8
+Papaya	   100		1.5
+Chicken	   65		5
+Cashew	   50		10
+April, third week

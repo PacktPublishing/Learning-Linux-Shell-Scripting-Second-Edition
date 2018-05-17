@@ -1,0 +1,5 @@
+Country   Capital      ISD Code
+USA       Washington      1
+China     Beijing         86
+Japan     Tokyo           81
+India     Delhi           91
